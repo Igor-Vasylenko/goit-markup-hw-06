@@ -343,7 +343,7 @@ img {
 
 .socials-link:hover .socials-icon,
 .socials-link:focus .socials-icon {
-  fill: #ffffff;
+  fill: var(--decoration2-color);
 }
 .socials-link:hover,
 .socials-link:focus {
